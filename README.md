@@ -1,7 +1,3 @@
-Certainly! Here's a description for your Python script, suitable for uploading to GitHub:
-
----
-
 # File and Folder Management Script
 
 This Python script provides a simple command-line interface for creating and managing files and folders in a specified directory. It includes functionalities to create single or multiple files and folders, list all files and folders, and search for specific files or folders within a directory.
